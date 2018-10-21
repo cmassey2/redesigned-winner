@@ -7,8 +7,8 @@
 
 2. Answer these questions
    * What are the GitHub usernames and names of your team members?
-       * GitHub username 1:   cmassey2    name 1: Claire Massey Prefered data structure: Red-black tree (maybe graphs)
-       * GitHub username 2:       name 2:
+       * GitHub username 1:   cmassey2    name 1: Claire Massey
+       * GitHub username 2:   DiaoDeYiPi    name 2: Jiahui Zhou Preferred Data Structure: No preference
        * GitHub username 3:       name 3:
        * GitHub username 4:       name 4:
        * GitHub username 5:       name 5:
