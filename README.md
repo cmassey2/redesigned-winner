@@ -11,7 +11,7 @@
        * GitHub username 1:   cmassey2    name 1: Claire Massey    Prefered Data Structure: RB Trees (or maybe graphs)
        * GitHub username 2:   DiaoDeYiPi    name 2: Jiahui Zhou Preferred Data Structure: No preference
        * GitHub username 3:   wxia9    name 3: Wei Xia  Prefered Data Structure: AVL Tree
-       * GitHub username 4:       name 4:   Prefered Data Structure:
+       * GitHub username 4:    dwaltzCS   name  David Waltz 4:   Prefered Data Structure: graphs, hash tables
 
    * When did you complete this exercise? 
    * How long did it take your team to complete this exercise? 
