@@ -32,29 +32,39 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
 Briefly describe a problem that your team would like to solve.  
 Describe at a high level a program that could solve that problem.
 
+We are going to do a grade reporter porgram which displays the exam results of the class and personal exam report to individual. This program will need to ask the professor for all the scores and names of the class, and then generate a exam report to students. Main.java is the class that we will use to create the hash table/ avl tree, and then import the data added from the professor, or edit the data, or delete the data based on our interface below.
+
 ## Questions to answer for Exercise #2
 
 1. Name: Give your project proposal a name (and edit the top line of this file)
 
-
+Grade Reporter
 
 2. Output: Describe the output your program will produce.  Include and example format of the output produced.
 
-
+The exam report of the class: mean, range, mode, distribution graph.
+The individual report: individual exam score, current standing in this class.
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
 
-
+The names of the students in this class and the exam scores of the whole class.
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
+Welcome to Grade Distribution 2018, are you a professor or a students:
+-I am a Professor:                                                -I am a Students:
+1) Add individual with score                                      1) Your score:
+2) Delete individual with score                                   2) Your current standing
+3) Edit student with score                                        3) Get mean, range, and grade distribution
+4) Get mean, range, and grade distribution                         
+5) Find students score with grade standing
+
 
 
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
+Student Information Class to store the information of the students; Hash Table Class to find the score via name as key; AVL Tree Class for range, mean, and grade distribution.
 
 
-
-Name each interface or class and briefly describe its function or purpose.
 
 
 ## Edit and Submit this file and any figures referenced by this document.
