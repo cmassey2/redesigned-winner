@@ -1,4 +1,4 @@
-# X-Team NN Project Proposal
+# X-Team 19 Grade Reporter Project Proposal
 
 See https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code for tips on using *Markdown* tags to format __.md__ files
 
@@ -29,23 +29,19 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
 
 ## Problem Description
 
-Briefly describe a problem that your team would like to solve.  
-Describe at a high level a program that could solve that problem.
-
-We are going to do a grade reporter porgram which displays the exam results of the class and personal exam report to individual. This program will need to ask the professor for all the scores and names of the class, and then generate a exam report to students. Main.java is the class that we will use to create the hash table/ avl tree, and then import the data added from the professor, or edit the data, or delete the data based on our interface below.
+We are going to do a grade reporter porgram which displays the exam results of the class and personal exam report to individual. This program will need to ask the professor for all the scores and names of the class, and then generate a exam report to students. Main.java is the class that we will use to create the hash table/ avl tree, and then import the data added from the professor, or edit the data, or delete the data based on our interface below. JUnit testing to test the hash table and AVL tree class. And we will also create Hashtable and AVL Tree structure to store the data.
 
 ## Questions to answer for Exercise #2
 
-1. Name: Give your project proposal a name (and edit the top line of this file)
+1. Name: Grade Reporter
 
-Grade Reporter
 
-2. Output: Describe the output your program will produce.  Include and example format of the output produced.
+2. Output: 
 
 The exam report of the class: mean, range, mode, distribution graph.
 The individual report: individual exam score, current standing in this class.
 
-3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
+3. Input: 
 
 The names of the students in this class and the exam scores of the whole class.
 
@@ -61,7 +57,7 @@ Welcome to Grade Distribution 2018, are you a professor or a students:
 
 
 
-5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
+5. Types List: 
 Student Information Class to store the information of the students; Hash Table Class to find the score via name as key; AVL Tree Class for range, mean, and grade distribution.
 
 
