@@ -14,8 +14,9 @@
        * GitHub username 4:    dwaltzCS   name  David Waltz 4:   Prefered Data Structure: graphs, hash tables
 
    * When did you complete this exercise? 
+      Sunday 22:20, Oct. 28th, 2018.
    * How long did it take your team to complete this exercise? 
-
+      2 hours.
 ## Table of Contents
 
 1. README.md - overview of files in this repository (this file)
