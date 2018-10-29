@@ -11,24 +11,9 @@ and missed deadlines.
 ## 1. Meet on time (text/message if you're going to be late or miss)
 ## 2. Communicate frequently 
 ## 3. Use GroupMe to communicate
-
-## How we will assign (and reassign) tasks
-  
-
-
-## How we willtrack progress (and follow-up) on completion of tasks
-
-
-
-## How we will communicate difficulties with a task assigned to us
-
-
-
-## How we will back up each other to ensure that deadlines are not missed
-
-
-
-## Add any other rules that your team establishes to help each other work effectively together
-
+## 4. Split up work evenly based on preferred data structur/ skills
+## 5. Meet as a team once a week, and message each other frequently
+## 6. Ask specific problems about difficulties and communicate via groupme.
+## 7. Always finish projects one day before the deadline.
 
 
